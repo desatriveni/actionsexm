@@ -1,5 +1,0 @@
-- name: assignment task
-  on: issues
-  jobs:
-    first-job:
-    
